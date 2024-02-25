@@ -36,3 +36,5 @@ mse = mean_squared_error(y_test, y_hat)
 print(f'Mean Squared Error: {mse}')
 r2 = r2_score(y_test, y_hat)
 print(f'R Squared score     :{r2}')
+
+###
